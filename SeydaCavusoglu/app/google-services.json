@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946321757823",
+    "project_id": "seydacavusoglu-afb1d",
+    "storage_bucket": "seydacavusoglu-afb1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946321757823:android:507da8e1efa884a99a914a",
+        "android_client_info": {
+          "package_name": "com.example.seydacavusoglu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946321757823-b335pg75maj5tlqrangr6hbbppvthep1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQyy_h1eSOSsbRBjJTOEw7fkA_Rr6D7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946321757823-b335pg75maj5tlqrangr6hbbppvthep1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
